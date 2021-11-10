@@ -1,6 +1,5 @@
 from random import seed
 from random import randint
-name, insultI
 
 insults = ["Idiot", "Arsch", "Spast", "Diggasagender"]
 
