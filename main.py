@@ -1,5 +1,4 @@
 import random
-seed(1)
 
 insults = ["Idiot", "Arsch", "Spast", "Diggasagender"]
 
